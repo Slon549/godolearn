@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://cxbp8mdni28gx"]
 
-[ext_resource type="Texture2D" uid="uid://b53vruqeeje78" path="res://asstets/sprites/platforms.png" id="1_mi635"]
+[ext_resource type="Texture2D" uid="uid://b53vruqeeje78" path="res://asstets/sprites/platforms.png" id="1_ba0x2"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_s8bxr"]
 size = Vector2(32, 8.875)
@@ -9,7 +9,7 @@ size = Vector2(32, 8.875)
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(520, 229)
-texture = ExtResource("1_mi635")
+texture = ExtResource("1_ba0x2")
 region_enabled = true
 region_rect = Rect2(15.829384, 0, 32.24543, 10.625553)
 
